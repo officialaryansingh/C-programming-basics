@@ -22,7 +22,7 @@ typedef struct employee
 
 }ep;
 
-int main(){
+int main(){ 
 
     struct employee NoOne;
     NoOne.eId = 1;
